@@ -1,3 +1,5 @@
 # CO1034
-This is a repository for the Computing Challenge. Experiencing the WebStorm support for Git Hub.
 
+This repository contains my work for The Computing Challenge.
+
+I am learning Git, GitHub and collaborative software development.
